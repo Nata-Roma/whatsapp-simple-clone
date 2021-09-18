@@ -1,7 +1,7 @@
 ## Whatsapp simple clone
 
-# chats are organised as one-to-one only
+- chats are organised as one-to-one only
 
-# firebase uses
+- firebase uses
 
-# next.js framework
+- next.js framework
