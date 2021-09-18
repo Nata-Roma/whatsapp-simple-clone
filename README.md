@@ -5,3 +5,7 @@
 - firebase uses
 
 - next.js framework
+
+- deploy
+
+https://whatsapp-simple-clone.vercel.app
