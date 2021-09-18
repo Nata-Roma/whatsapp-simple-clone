@@ -1,10 +1,14 @@
 ## Whatsapp simple clone
 
+- next.js framework
+
+- log in via google account
+
 - chats are organised as one-to-one only
 
-- firebase uses
+- using firebase and react-firebase-hooks to listen to firebase events
 
-- next.js framework
+______________________
 
 - deploy
 
